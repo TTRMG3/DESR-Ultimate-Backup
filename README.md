@@ -31,7 +31,7 @@ Restoration writes and verifies files present in the chosen backup. It deliberat
 | System | Firmware | Backup | Restore | Result |
 | --- | --- | --- | --- | --- |
 | DESR-5100S (PSX1) | 1.31 | Completed and verified | Completed and verified | Booted normally to XMB afterwards |
-| DESR-7700 (PSX2) | 2.11 | Completed and verified | Pending | Backup catalogue detected it |
+| DESR-7700 (PSX2) | 2.11 | Completed and verified | Completed and verified | Booted normally to XMB afterwards  |
 | DESR-7500 (PSX2) | 2.10 | In hardware validation | Pending | Used to validate PSX2 restoration |
 
 PSX1 and PSX2 have materially different HDD/DVR layouts. A successful PSX1 end-to-end restoration is encouraging, but it does not prove every model, firmware, or modified installation behaves identically.
@@ -123,7 +123,7 @@ La restauración escribe y verifica los archivos presentes en la copia elegida. 
 | Sistema | Firmware | Copia | Restauración | Resultado |
 | --- | --- | --- | --- | --- |
 | DESR-5100S (PSX1) | 1.31 | Terminada y verificada | Terminada y verificada | Volvió a arrancar normalmente en XMB |
-| DESR-7700 (PSX2) | 2.11 | Terminada y verificada | Pendiente | El catálogo detectó la copia |
+| DESR-7700 (PSX2) | 2.11 | Terminada y verificada | Terminada y verificada | Volvió a arrancar normalmente en XMB |
 | DESR-7500 (PSX2) | 2.10 | En validación | Pendiente | Se usa para validar restauración PSX2 |
 
 PSX1 y PSX2 tienen estructuras HDD/DVR materialmente distintas. Una restauración completa correcta en PSX1 es una señal excelente, pero no demuestra aún que todos los modelos, firmwares o instalaciones modificadas se comporten igual.
